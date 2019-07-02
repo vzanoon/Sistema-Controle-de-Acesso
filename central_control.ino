@@ -1,3 +1,6 @@
+/********************************************************************
+ *      Sistema de Controle de Acesso com Autenticacao por Senha
+ *******************************************************************/
 #include <Arduino.h>
 #include <LiquidCrystal.h>
 #include <string.h>
